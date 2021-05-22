@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Montserrat";
+    text-align: center;
+}
+.alltext{
+    background-image: url(picture.png);
+    height: 1001px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 900px;
+}
+li {
+    width: 20px;
+    height: 20px;
+}
+.text {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: 'Kaushan Script', cursive;
+}
+.textone {
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+.MoGo {
+    font-size: 30px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Montserrat";
+}
+
+.white {
+    font-size: 14px;
+    color: #ffffff!important;
+    text-align: center;
+}
+.banner {
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    margin: 0 auto;
+    align-items: center;
+}
+.scy{
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    display: inline-block;
+    border: 3px solid white;
+     padding: 10px 20px;
+     
+}
